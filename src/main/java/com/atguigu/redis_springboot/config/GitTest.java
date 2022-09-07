@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("master2");
         System.out.println("hot-fi2");
         System.out.println("push test!");
+        System.out.println("poll t拉取");
     }
 }
